@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Utsavi Gohil, a CSE Sophomore at IIT Kharagpur.
 
 <!--
 **Utsavi7609/Utsavi7609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
